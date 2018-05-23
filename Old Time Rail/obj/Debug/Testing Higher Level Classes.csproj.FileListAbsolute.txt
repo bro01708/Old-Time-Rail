@@ -1,0 +1,6 @@
+c:\users\bro01\documents\visual studio 2015\Projects\Testing Higher Level Classes\Testing Higher Level Classes\bin\Debug\Testing Higher Level Classes.exe.config
+c:\users\bro01\documents\visual studio 2015\Projects\Testing Higher Level Classes\Testing Higher Level Classes\obj\Debug\Testing Higher Level Classes.csprojResolveAssemblyReference.cache
+c:\users\bro01\documents\visual studio 2015\Projects\Testing Higher Level Classes\Testing Higher Level Classes\bin\Debug\Testing Higher Level Classes.exe
+c:\users\bro01\documents\visual studio 2015\Projects\Testing Higher Level Classes\Testing Higher Level Classes\bin\Debug\Testing Higher Level Classes.pdb
+c:\users\bro01\documents\visual studio 2015\Projects\Testing Higher Level Classes\Testing Higher Level Classes\obj\Debug\Testing Higher Level Classes.exe
+c:\users\bro01\documents\visual studio 2015\Projects\Testing Higher Level Classes\Testing Higher Level Classes\obj\Debug\Testing Higher Level Classes.pdb

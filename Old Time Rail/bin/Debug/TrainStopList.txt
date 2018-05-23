@@ -1,0 +1,8 @@
+﻿10:00 - 10:25 | Beggin Terminal - Suddean Halt    |
+10:30 - 10:55 |    Suddean Halt - Multhy Pass     |
+11:00 - 11:25 |     Multhy Pass - Conn Junction   |
+11:30 - 11:55 |   Conn Junction - Endline Station |
+12:00 - 12:25 | Endline Station - Conn Junction   |
+12:30 - 12:55 |   Conn Junction - Multhy Pass     |
+13:00 - 13:25 |     Multhy Pass - Suddean Halt    |
+13:30 - 13:55 |    Suddean Halt - Beggin Terminal |
